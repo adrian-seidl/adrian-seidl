@@ -5,15 +5,15 @@
 
 <table>
   <tr>
-    <td align="right"><strong>Experience:</strong></td>
+    <td align="right"><strong>Experience</strong></td>
     <td>20 months in Data Engineering | 15 months in Finance</td>
   </tr>
   <tr>
-    <td align="right"><strong>Current Focus:</strong></td>
+    <td align="right"><strong>Current Focus</strong></td>
     <td>Studying Data Science / Expanding skills in ML & AI</td>
   </tr>
   <tr>
-    <td align="right"><strong>Background:</strong></td>
+    <td align="right"><strong>Background</strong></td>
     <td>(BSc.) Economics + Finance + Data Engineering</td>
   </tr>
 </table>
