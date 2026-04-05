@@ -3,18 +3,60 @@
 <h1 align="center">Adrian Seidl</h1>
 <h3 align="center">Turning Econ & Finance into Data-Driven Insights</h3>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="right"><strong>Experience</strong></td>
+      <td align="left">20 months in Data Engineering | 15 months in Finance</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Current Focus</strong></td>
+      <td align="left">Studying Data Science / Expanding skills in ML & AI</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Background</strong></td>
+      <td align="left">(BSc.) Economics + Finance + Data Engineering</td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="middle">Portfolio</h3>
+
 <table>
   <tr>
-    <td align="right"><strong>Experience</strong></td>
-    <td>20 months in Data Engineering | 15 months in Finance</td>
+  <td align="right"><strong>Visual Language Model</strong></td>
+    <td>
+      Development of NanoChimera – an efficient Visual Language Model designed to combine image and text understanding with significantly reduced computational cost. 
+      By integrating pretrained vision and language models through a lightweight architecture, we demonstrated that compact models can still achieve strong performance
+      on multimodal tasks such as image captioning.
+      <br><br>
+      <strong>Result:</strong>
+      Competitive performance with far lower resource requirements, highlighting a practical and scalable approach to multimodal AI.
+    </td>
   </tr>
+
   <tr>
-    <td align="right"><strong>Current Focus</strong></td>
-    <td>Studying Data Science / Expanding skills in ML & AI</td>
+    <td align="right"><strong>BMW Pricing Challenge</strong></td>
+    <td>
+      Worked with a publicly available BMW dataset on Kaggle to develop statistical, machine learning, and deep learning models for vehicle price prediction. Built a
+      multiple regression baseline, explored XGBoost for efficient ML training, and trained a deep learning model to capture complex patterns. Gained hands-on experience
+      with model pipelines, logging, and parameter tuning, while learning best practices for reproducibility and scalable workflows.
+    </td>
   </tr>
+
   <tr>
-    <td align="right"><strong>Background</strong></td>
-    <td>(BSc.) Economics + Finance + Data Engineering</td>
+    <td align="right"><strong>Frank-Wolfe Optimization for Graph Problems</strong></td>
+    <td>
+      Developed and evaluated scalable optimization algorithms to solve complex graph problems using real-world benchmark data. 
+      Implemented multiple variants of the Frank-Wolfe algorithm (including Pairwise and Away-Step) to efficiently approximate solutions for the Maximum Clique Problem—focusing on performance, scalability, and solution quality.
+      <br><br>
+      <strong>Results:</strong>
+      <ul>
+        <li>Improved solution quality significantly through tailored regularization techniques</li>
+        <li>Identified performance trade-offs between speed, stability, and accuracy across algorithm variants</li>
+        <li>Achieved strong results on large-scale graphs (up to 400 nodes / 78k edges), with best solutions reaching clique sizes of 54</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
