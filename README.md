@@ -20,7 +20,7 @@
   </table>
 </div>
 
-<h3 align="middle">Portfolio</h3>
+<h3 align="middle">(Python) Portfolio</h3>
 
 <table>
   <tr>
