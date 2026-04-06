@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td align="right"><strong>Experience</strong></td>
-      <td align="left">20 months in Data Engineering | 15 months in Finance</td>
+      <td align="left">20 months in Data Engineering | 17 months in Finance</td>
     </tr>
     <tr>
       <td align="right"><strong>Current Focus</strong></td>
