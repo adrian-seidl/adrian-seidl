@@ -22,7 +22,7 @@
 <div align="center">
   <table>
     <tr>
-      <th>Languages</th>
+      <th>Programming Languages</th>
       <th>DevOps</th>
       <th>Data</th>
       <th>ML / AI</th>
