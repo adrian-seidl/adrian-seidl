@@ -10,7 +10,10 @@
     </tr>
     <tr>
       <td align="right"><strong>Current Focus</strong></td>
-      <td align="left">Studying Data Science / Expanding skills in ML & AI</td>
+      <td align="left">
+        MSc. Data Science (thesis remaining)<br>
+        Expanding skills in Machine Learning & AI
+      </td>
     </tr>
     <tr>
       <td align="right"><strong>Background</strong></td>
