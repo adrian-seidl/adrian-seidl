@@ -86,7 +86,7 @@
   </tr>
 
   <tr>
-    <td align="right"><strong>BMW Pricing Challenge (in Progress)</strong></td>
+    <td align="right"><strong>BMW Pricing Challenge (in progress)</strong></td>
     <td>
       Worked with a publicly available BMW dataset on Kaggle to develop statistical, machine learning, and deep learning models for vehicle price prediction. Built a
       multiple regression baseline, explored XGBoost for efficient ML training, and trained a deep learning model to capture complex patterns. Gained hands-on experience
