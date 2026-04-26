@@ -97,9 +97,9 @@
       <br><br>
       <strong>Results:</strong>
       <ul>
-        <li>Multiple Regression (OLS): R² = 0.732 with significant predictors including mileage, engine_power, car type, and series features</li>
-        <li>XGBoost: Validation R² ranged 0.597–0.874 across folds, with the highest fold achieving R² = 0.8741</li>
-        <li>Deep Learning: Best fold reached Validation R² = 0.882 (MSE ≈ 0.103), achieving results comparable to XGBoost while leveraging strong nonlinear modeling capabilities</li>
+        <li>Multiple Regression (OLS): R² = 0.74 with significant predictors including mileage, engine_power, car type, and series features</li>
+        <li>XGBoost: Validation R² ranged 0.598–0.875 across folds, with the highest fold achieving R² = 0.8745</li>
+        <li>Deep Learning: Best fold reached Validation R² = 0.893 (MSE ≈ 0.093), achieving results comparable to XGBoost while leveraging strong nonlinear modeling capabilities</li>
       </ul>
     </td>
   </tr>
