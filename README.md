@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td align="right"><strong>Experience</strong></td>
-      <td align="left">20 months in Data Engineering | 17 months in Finance</td>
+      <td align="left">21 months in Data Engineering | 17 months in Finance</td>
     </tr>
     <tr>
       <td align="right"><strong>Current Focus</strong></td>
@@ -26,7 +26,7 @@
   <table>
     <tr>
       <th>Programming Languages</th>
-      <th>DevOps</th>
+      <th>Cloud / DevOps</th>
       <th>Data</th>
       <th>ML / AI</th>
     </tr>
@@ -76,15 +76,27 @@
 <h3 align="middle">(Python) Portfolio</h3>
 
 <table>
+
   <tr>
-  <td align="right"><strong>Visual Language Model</strong></td>
+    <td align="right"><strong>Safety-Constrained Reinforcement Learning</strong></td>
     <td>
-      Development of NanoChimera – an efficient Visual Language Model designed to combine image and text understanding with significantly reduced computational cost. 
-      By integrating pretrained vision and language models through a lightweight architecture, we demonstrated that compact models can still achieve strong performance
-      on multimodal tasks such as image captioning.
+      Ongoing Master's thesis comparing state-of-the-art safety-constrained online and offline reinforcement learning algorithms. 
+      The work focuses on evaluating both reward maximisation and cost constraint violations to better understand the trade-offs between online and offline approaches under safety constraints.
       <br><br>
       <strong>Result:</strong>
-      Competitive performance with far lower resource requirements, highlighting a practical and scalable approach to multimodal AI.
+      Further details will be added once the thesis has been officially completed.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="right"><strong>Visual Language Model</strong></td>
+      <td>
+        Development of NanoChimera – an efficient Visual Language Model designed to combine image and text understanding with significantly reduced computational cost. 
+        By integrating pretrained vision and language models through a lightweight architecture, we demonstrated that compact models can still achieve strong performance
+        on multimodal tasks such as image captioning.
+        <br><br>
+        <strong>Result:</strong>
+        Competitive performance with far lower resource requirements, highlighting a practical and scalable approach to multimodal AI.
     </td>
   </tr>
 
