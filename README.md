@@ -78,7 +78,7 @@
 <table>
 
   <tr>
-    <td align="right"><strong>Ongoing Master's Thesis: Safety-Constrained Reinforcement Learning</strong></td>
+    <td align="right"><strong>(Ongoing Master's Thesis) Safety-Constrained Reinforcement Learning</strong></td>
     <td>
       Ongoing Master's thesis comparing state-of-the-art safety-constrained online and offline reinforcement learning algorithms. 
       The work focuses on evaluating both reward maximisation and cost constraint violations to better understand the trade-offs between online and offline approaches under safety constraints.
