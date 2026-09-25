@@ -89,20 +89,24 @@
   </tr>
 
   <tr>
-    <td align="right"><strong>BMW Pricing Challenge</strong><br>(in progress)</td>
-    <td>
-      Worked with a publicly available BMW dataset on Kaggle to develop statistical, machine learning, and deep learning models for vehicle price prediction. Built a
-      multiple regression baseline, explored XGBoost for efficient ML training, and trained a deep learning model to capture complex patterns. Gained hands-on experience
-      with model pipelines, logging, and parameter tuning, while learning best practices for reproducibility and scalable workflows.
-      <br><br>
-      <strong>Results:</strong>
-      <ul>
-        <li>Multiple Regression (OLS): R² = 0.74 with significant predictors including mileage, engine_power, car type, and series features</li>
-        <li>XGBoost: Validation R² ranged 0.598–0.875 across folds, with the highest fold achieving R² = 0.8745</li>
-        <li>Deep Learning: Best fold reached Validation R² = 0.893 (MSE ≈ 0.093), achieving results comparable to XGBoost while leveraging strong nonlinear modeling capabilities</li>
-      </ul>
-    </td>
-  </tr>
+  <td align="right"><strong>BMW Pricing Challenge</strong><br></td>
+  <td>
+    Worked with a publicly available BMW dataset on Kaggle to develop statistical, machine learning, and deep learning models for vehicle price prediction. Built a
+    multiple regression baseline, explored XGBoost for efficient ML training, and trained a deep learning model to capture complex patterns. Gained hands-on experience
+    with model pipelines, logging, and parameter tuning, while learning best practices for reproducibility and scalable workflows.
+    <br><br>
+    <strong>Results:</strong>
+    <ul>
+      <li>Multiple Regression (OLS): R² = 0.74 with significant predictors including mileage, engine_power, car type, and series features</li>
+      <li>XGBoost: Validation R² ranged 0.598–0.875 across folds, with the highest fold achieving R² = 0.8745</li>
+      <li>Deep Learning: Best fold reached Validation R² = 0.893 (MSE ≈ 0.093), achieving results comparable to XGBoost while leveraging strong nonlinear modeling capabilities</li>
+    </ul>
+    <strong>Potential future extension:</strong>
+    <ul>
+      <li>Extend the project into a more comprehensive end-to-end ML system with an even stronger focus on scalability, reproducibility, and production-oriented workflows</li>
+    </ul>
+  </td>
+</tr>
 
   <tr>
     <td align="right"><strong>Frank-Wolfe Optimization for Graph Problems</strong></td>
